@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite UAC</string>
+    <string name="codigo">codigo</string>
+    <string name="nombre">Nombre</string>
+    <string name="programa">Programa</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="listado">Listado</string>
+    <string name="Estudiantes">Estudiantes</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Borrar">Borrar</string>
+
+</resources>
